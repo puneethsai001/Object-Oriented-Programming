@@ -1,2 +1,2 @@
-# Object-Oriented-Programming
-Welcome to the Object-Oriented Programming repository! This project is designed to be a comprehensive guide and resource for learning and practicing object-oriented programming principles using the Java programming language.
+# GUI-with-Java
+The programs in this branch covers the Graphical User Interface part of java which uses Abstract Window Toolkit (AWT) Pacakage.

@@ -1,2 +1,2 @@
-# Object-Oriented-Programming
-Welcome to the Object-Oriented Programming repository! This project is designed to be a comprehensive guide and resource for learning and practicing object-oriented programming principles using the Java programming language.
+# Core-Java-Programs
+All the programs related to core Java which include the character based input-output programs are uploaded to this branch. Feel free to download the code and run them in your local environment.
